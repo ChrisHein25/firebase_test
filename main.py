@@ -3,7 +3,7 @@ from flask_bootstrap import Bootstrap
 import yaml
 import os
 import sqlite3
-#import dbfunc
+
 os.system('id')
 
 app = Flask(__name__)
